@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Receiver</string>
+    <string name="channelID">channel</string>
+    <string name="notification_title">Item added</string>
+    <string name="channel_name">ItemNotification</string>
+    <string name="channel_description">Notify new item was added</string>
+</resources>
